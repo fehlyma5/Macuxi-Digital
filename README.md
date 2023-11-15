@@ -5,3 +5,6 @@ De acordo com os objetivos de desenvolvimento sustentaveis (2, 11, 12) a ideia �
 Como funciona
 
 Como uma especie de "tinder" onde produtores rurais e profissionais podem interagir de forma fácil e eficiente. Nossos recursos incluem consultorias especializadas, cursos online para capacitação e um chat para tirar dúvidas em tempo real. Junte-se a nós e inove no seu negócio agrícola!
+
+pesquisa de validacao:
+https://docs.google.com/forms/d/e/1FAIpQLSfi2zXzmFNCy83k-NwZWY98eDBFL8taBcw9E8iKqz8cWWOqHA/viewform
